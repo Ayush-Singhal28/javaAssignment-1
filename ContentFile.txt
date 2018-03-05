@@ -1,0 +1,1 @@
+Lambda Lambda expression eliminates the need of the anonymous class and gives a very simple yet powerful functional programming
