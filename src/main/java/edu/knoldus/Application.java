@@ -14,7 +14,7 @@ class Application {
         List<Integer> list1 = Arrays.asList(5, 2, 6, 4);
         List<Integer> list2 = Arrays.asList(15, 12, 16, 14);
         multiplyTwoList(list1, list2);
-        File file = new File("/home/knoldus/JavaAssignment1/ContentFile.txt");
+        File file = new File("/home/knoldus/JavaAssignment1/src/main/resources/ContentFile.txt");
         readingContentOfFile(file);
     }
 
@@ -51,6 +51,7 @@ class Application {
             }
         }
         System.out.println(readingCount);
-
     }
+
 }
+
